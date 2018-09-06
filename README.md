@@ -13,7 +13,7 @@ Infernce of show-and-tell model on android using the tensorflow infernce class r
 ## steps
 1. clone and extract the repository.
 2. download the .pb file from this <a href="https://drive.google.com/file/d/1_AH6KCuk8ZiwPln9KnIaW6_KruDORn4e/view?usp=drivesdk">Link</a>
-3. move the above file to the following path
+3. move optimized.pb file to the following path
 ```shell
 im2txt2speech-android\app\src\main\assets\
 ```
