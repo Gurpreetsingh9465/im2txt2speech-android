@@ -17,5 +17,5 @@ Infernce of show-and-tell model on android using the tensorflow infernce class r
 ```shell
 im2txt2speech-android\app\src\main\assets\
 ```
-4. build the app using graddl.
+4. build and run the app.
 
